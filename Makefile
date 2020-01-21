@@ -60,6 +60,7 @@ SRC = ft_memset.c \
 	  ft_putstr.c\
 	  ft_putnbr.c\
 	  ft_strreplace.c\
+	  ft_strsub.c\
 
 SRCSBONUS = ft_lstnew_bonus.c\
 			ft_lstadd_front_bonus.c\
